@@ -15,7 +15,7 @@ Python script that solves for voltage, current, or resistance
 given any two values. Built to sharpen Python fundamentals
 while reinforcing core circuit theory.
 
-***Tools:** Python
+**Tools:** Python
 
 ---
 
