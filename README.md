@@ -4,7 +4,7 @@ Power engineering student at CSN transferring to UNLV.
 Focused on power systems, grid modernization, and the
 infrastructure behind AI and data centers.
 
-📍 Las Vegas, NV | 🎓 CSN → UNLV | ⚡ Power EE
+ Las Vegas, NV |  CSN → UNLV |  Power EE
 
 ---
 
@@ -14,6 +14,18 @@ infrastructure behind AI and data centers.
 Python script that solves for voltage, current, or resistance
 given any two values. Built to sharpen Python fundamentals
 while reinforcing core circuit theory.
+
+### Fault Calc & Relay Coordination Simulator
+
+Python simulator modeling overcurrent relay protection logic. Given a fault 
+current and a set of relays (each with a pickup setting and bus location), 
+calculates each relay's trip margin and determines whether it would trip. 
+Checks whether relay pickup settings are properly sized to catch faults on 
+their protected zone, a core coordination concept in P&C engineering.
+
+**Tools:** Python
+
+---
 
 **Tools:** Python
 
